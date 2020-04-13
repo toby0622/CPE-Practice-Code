@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\UVA_10055_Hashmat_the_Brave_Warrior.dir/objects.a
+C:\MINGWW~1\mingw64\bin\ar.exe cr CMakeFiles\UVA_10055_Hashmat_the_Brave_Warrior.dir/objects.a @CMakeFiles\UVA_10055_Hashmat_the_Brave_Warrior.dir\objects1.rsp
+C:\MINGWW~1\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\UVA_10055_Hashmat_the_Brave_Warrior.dir/objects.a -Wl,--no-whole-archive  -o UVA_10055_Hashmat_the_Brave_Warrior.exe -Wl,--out-implib,libUVA_10055_Hashmat_the_Brave_Warrior.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UVA_10055_Hashmat_the_Brave_Warrior.dir\linklibs.rsp
