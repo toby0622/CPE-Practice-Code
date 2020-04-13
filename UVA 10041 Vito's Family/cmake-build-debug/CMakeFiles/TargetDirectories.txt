@@ -1,0 +1,3 @@
+C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito's Family/cmake-build-debug/CMakeFiles/One_Star_UVA_10041_Vito_s_Family.dir
+C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito's Family/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito's Family/cmake-build-debug/CMakeFiles/rebuild_cache.dir

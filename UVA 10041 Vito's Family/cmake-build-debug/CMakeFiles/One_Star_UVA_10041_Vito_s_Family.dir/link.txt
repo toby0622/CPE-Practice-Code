@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\One_Star_UVA_10041_Vito_s_Family.dir/objects.a
+C:\MINGWW~1\mingw64\bin\ar.exe cr CMakeFiles\One_Star_UVA_10041_Vito_s_Family.dir/objects.a @CMakeFiles\One_Star_UVA_10041_Vito_s_Family.dir\objects1.rsp
+C:\MINGWW~1\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\One_Star_UVA_10041_Vito_s_Family.dir/objects.a -Wl,--no-whole-archive  -o One_Star_UVA_10041_Vito_s_Family.exe -Wl,--out-implib,libOne_Star_UVA_10041_Vito_s_Family.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\One_Star_UVA_10041_Vito_s_Family.dir\linklibs.rsp

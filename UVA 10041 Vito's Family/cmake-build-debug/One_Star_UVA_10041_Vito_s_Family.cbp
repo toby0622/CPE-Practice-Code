@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="One_Star_UVA_10041_Vito_s_Family"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="One_Star_UVA_10041_Vito_s_Family">
+				<Option output="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/One_Star_UVA_10041_Vito_s_Family.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 One_Star_UVA_10041_Vito_s_Family"/>
+					<CompileFile command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="One_Star_UVA_10041_Vito_s_Family/fast">
+				<Option output="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/One_Star_UVA_10041_Vito_s_Family.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MinGW w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 One_Star_UVA_10041_Vito_s_Family/fast"/>
+					<CompileFile command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGWW~1/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/main.cpp">
+			<Option target="One_Star_UVA_10041_Vito_s_Family"/>
+		</Unit>
+		<Unit filename="C:/Users/toby0/Desktop/CPE/One Star UVA 10041 Vito&apos;s Family/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
