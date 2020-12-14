@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GitHub Repositories/CPE-Practice-Code/UVA 11321 Sort Sort Sort/main.cpp
+iostream
+-
+algorithm
+-
+
