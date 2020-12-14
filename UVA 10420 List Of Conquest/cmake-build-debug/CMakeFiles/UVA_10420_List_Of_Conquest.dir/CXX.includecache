@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GitHub Repositories/CPE-Practice-Code/UVA 10420 List Of Conquest/main.cpp
+iostream
+-
+map
+-
+string
+-
+
