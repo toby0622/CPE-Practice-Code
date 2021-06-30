@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11332 Problem J Summing Digits/main.cpp
+iostream
+-
+string
+-
+

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="UVA_10222_Decode_The_Mad_Man" targetName="UVA_10222_Decode_The_Mad_Man" />
+      <config projectName="UVA_11332_Problem_J_Summing_Digits" targetName="UVA_11332_Problem_J_Summing_Digits" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,13 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f08be316-f0c5-4f70-9445-5bc2b6916d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../UVA 11332 Problem J Summing Digits/.idea/UVA 11332 Problem J Summing Digits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UVA 11332 Problem J Summing Digits/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UVA 11332 Problem J Summing Digits/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UVA 11332 Problem J Summing Digits/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1de5d9fb-ab46-405c-ba11-38c813da4533" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/UVA 11332 Problem J Summing Digits.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UVA 10008 What's Cryptanalysis/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../UVA 10008 What's Cryptanalysis/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UVA 10222 Decode The Mad Man/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UVA 10222 Decode The Mad Man/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UVA 10222 Decode The Mad Man/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../UVA 10222 Decode The Mad Man/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +32,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ucwOd7Brjb81Yyo9CS2IDpOZ1n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1uejMBrHBfvkIPylErFq7Zc6BFE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -53,7 +51,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager">
-    <configuration name="UVA_10222_Decode_The_Mad_Man" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UVA_10222_Decode_The_Mad_Man" TARGET_NAME="UVA_10222_Decode_The_Mad_Man" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UVA_10222_Decode_The_Mad_Man" RUN_TARGET_NAME="UVA_10222_Decode_The_Mad_Man">
+    <configuration name="UVA_11332_Problem_J_Summing_Digits" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UVA_11332_Problem_J_Summing_Digits" TARGET_NAME="UVA_11332_Problem_J_Summing_Digits" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UVA_11332_Problem_J_Summing_Digits" RUN_TARGET_NAME="UVA_11332_Problem_J_Summing_Digits">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -71,8 +74,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
