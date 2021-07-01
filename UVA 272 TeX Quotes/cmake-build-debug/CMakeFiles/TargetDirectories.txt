@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 272 TeX Quotes/cmake-build-debug/CMakeFiles/UVA_272_TeX_Quotes.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 272 TeX Quotes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 272 TeX Quotes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
