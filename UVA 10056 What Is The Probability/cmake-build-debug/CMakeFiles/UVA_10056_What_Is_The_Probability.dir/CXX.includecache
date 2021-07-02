@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 10056 What Is The Probability/main.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+
