@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(UVA_10170_The_Hotel_With_Infinite_Rooms)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(UVA_10170_The_Hotel_With_Infinite_Rooms main.cpp)
