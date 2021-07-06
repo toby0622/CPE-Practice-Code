@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11005 Cheapest Base/cmake-build-debug/CMakeFiles/UVA_11005_Cheapest_Base.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11005 Cheapest Base/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11005 Cheapest Base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
