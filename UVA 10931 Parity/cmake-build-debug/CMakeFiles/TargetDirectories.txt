@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 10931 Parity/cmake-build-debug/CMakeFiles/UVA_10931_Parity.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 10931 Parity/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 10931 Parity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
