@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11417 GCD/cmake-build-debug/CMakeFiles/UVA_11417_GCD.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11417 GCD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11417 GCD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
