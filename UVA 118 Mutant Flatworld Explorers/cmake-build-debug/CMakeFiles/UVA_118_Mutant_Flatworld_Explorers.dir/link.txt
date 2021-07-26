@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\UVA_118_Mutant_Flatworld_Explorers.dir/objects.a
+C:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\UVA_118_Mutant_Flatworld_Explorers.dir/objects.a @CMakeFiles\UVA_118_Mutant_Flatworld_Explorers.dir\objects1.rsp
+C:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\UVA_118_Mutant_Flatworld_Explorers.dir/objects.a -Wl,--no-whole-archive -o UVA_118_Mutant_Flatworld_Explorers.exe -Wl,--out-implib,libUVA_118_Mutant_Flatworld_Explorers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UVA_118_Mutant_Flatworld_Explorers.dir\linklibs.rsp
