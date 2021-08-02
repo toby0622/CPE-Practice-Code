@@ -6,7 +6,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 ---
 
-😄<strong>The solving list is slowly updated. If you didn't find the question on the solving list, just go through the repository itself.</strong>😄
+😄 <strong>The solving list is slowly updated. If you didn't find the question on the solving list, just go through the repository itself.</strong> 😄
 
 ---
 
