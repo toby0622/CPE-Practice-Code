@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 10343 Base 64 Decoding/main.cpp
+cstdio
+-
+cstdlib
+-
+
