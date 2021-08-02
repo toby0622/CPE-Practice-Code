@@ -27,8 +27,13 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 |Index|Title|
 |:-----:|:-----:|
+|UVA 10062|Tell Me The Frequencies|
+|UVA 10093|An Easy Problem|
+|UVA 10226|Hardwood Species|
+|UVA 11005|Cheapest Base|
 
 ## Wrong Answer (Not Figuring Out The Problem)
 
 |Index|Title|
 |:-----:|:-----:|
+|UVA 10343|Base64 Decoding|
