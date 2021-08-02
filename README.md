@@ -6,6 +6,8 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 The solving list is slowly updated. If you didn't find the question on the solving list, just go through the repository itself.
 
+---
+
 ## Finished Question (Done)
 
 |Index|Title|
@@ -36,6 +38,8 @@ The solving list is slowly updated. If you didn't find the question on the solvi
 |UVA 11461|Square Numbers|
 |UVA 12019|A Doom's Day Algorithm|
 
+---
+
 ## Need More Practice (Done With A Lot Of Browsing)
 
 |Index|Title|
@@ -44,6 +48,8 @@ The solving list is slowly updated. If you didn't find the question on the solvi
 |UVA 10093|An Easy Problem|
 |UVA 10226|Hardwood Species|
 |UVA 11005|Cheapest Base|
+
+---
 
 ## Wrong Answer (Not Figuring Out The Problem)
 
