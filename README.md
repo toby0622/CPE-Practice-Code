@@ -7,7 +7,7 @@ ACM-ICPC Contest Council for Taiwan
 ## Finished Question (Done)
 
 |Index|Title|
-|-----|-----|
+|:-----:|:-----:|
 |UVA 100|The 3n+1 Problem|
 |UVA 10008|What's Cryptanalysis|
 |UVA 10035|Primary Arithmetic|
@@ -22,9 +22,9 @@ ACM-ICPC Contest Council for Taiwan
 ## Need More Practice (Done With A Lot Of Browsing)
 
 |Index|Title|
-|-----|-----|
+|:-----:|:-----:|
 
 ## Wrong Answer (Not Figuring Out The Problem)
 
 |Index|Title|
-|-----|-----|
+|:-----:|:-----:|
