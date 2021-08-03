@@ -31,13 +31,17 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |UVA 10170|The Hotel With Infinite Rooms|
 |UVA 10190|Divide, But Not Quite Conquer|
 |UVA 10193|All You Need Is Love|
+|UVA 10221|Satellites|
 |UVA 10222|Decode The Mad Man|
 |UVA 10235|Simply Emirp|
+|UVA 10242|Fourth Point|
 |UVA 10252|Common Permutation|
 |UVA 10268|498'|
 |UVA 10420|List Of Conquests|
+|UVA 10642|Can You Solve It|
 |UVA 10783|Odd Sum|
 |UVA 10812|Beat The Spread|
+|UVA 10908|Largest Square|
 |UVA 10922|2 The 9s|
 |UVA 10929|You Can Say 11|
 |UVA 10931|Parity|
