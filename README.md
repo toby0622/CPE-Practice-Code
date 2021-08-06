@@ -6,11 +6,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 ---
 
-😄 <strong>The solving list is slowly updated. If you didn't find the question on the solving list, just go through the repository itself.</strong> 😄
-
----
-
-## Finished Question (Done)
+## Finished Question (Done) 😄
 
 |Index|Title|
 |:-----:|:-----:|
@@ -69,7 +65,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 ---
 
-## Need More Practice (Done With A Lot Of Browsing)
+## Need More Practice (Done With A Lot Of Browsing) 😕
 
 |Index|Title|
 |:-----:|:-----:|
@@ -82,7 +78,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 ---
 
-## Wrong Answer (Not Figuring Out The Problem)
+## Wrong Answer (Not Figuring Out The Problem) 😢
 
 |Index|Title|
 |:-----:|:-----:|
