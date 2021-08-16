@@ -12,6 +12,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |:-----:|:-----:|
 |UVA 100|The 3n+1 Problem|
 |UVA 118|Mutant Flatworld Explorers|
+|UVA 256|Quirksome Squares|
 |UVA 272|TeX Quotes|
 |UVA 299|Train Swapping|
 |UVA 490|Rotating Sentences|
@@ -54,6 +55,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |UVA 10922|2 The 9s|
 |UVA 10929|You Can Say 11|
 |UVA 10931|Parity|
+|UVA 11001|Necklace|
 |UVA 11150|Cola|
 |UVA 11063|B2 Sequence|
 |UVA 11321|Sort Sort And Sort|
