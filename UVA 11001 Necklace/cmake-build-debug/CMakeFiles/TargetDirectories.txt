@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11001 Necklace/cmake-build-debug/CMakeFiles/UVA_11001_Necklace.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11001 Necklace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11001 Necklace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
