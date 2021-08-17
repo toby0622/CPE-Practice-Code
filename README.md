@@ -35,6 +35,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |UVA 10189|Minesweeper|
 |UVA 10190|Divide, But Not Quite Conquer|
 |UVA 10193|All You Need Is Love|
+|UVA 10215|The Largest / Smallest Box|
 |UVA 10220|I Love Big Numbers|
 |UVA 10221|Satellites|
 |UVA 10222|Decode The Mad Man|
@@ -74,6 +75,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |UVA 10062|Tell Me The Frequencies|
 |UVA 10093|An Easy Problem|
 |UVA 10106|Product|
+|UVA 10137|The Trip|
 |UVA 10176|Ocean Deep Make It Shallow|
 |UVA 10226|Hardwood Species|
 |UVA 11005|Cheapest Base|
