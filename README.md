@@ -8,9 +8,9 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 ## Finished Question (Done) 😄
 
-|Index|Title|
-|:-----:|:-----:|
-|UVA 100|The 3n+1 Problem|
+|Index|Title|C++|
+|:-----:|:-----:|:-----:|
+|UVA 100|The 3n+1 Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20100%20The%203n%20%2B%201%20Problem/main.cpp)|
 |UVA 118|Mutant Flatworld Explorers|
 |UVA 256|Quirksome Squares|
 |UVA 272|TeX Quotes|
