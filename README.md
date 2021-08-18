@@ -18,11 +18,11 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |UVA 490|Rotating Sentences|
 |UVA 495|Fibonacci Freeze|
 |UVA 948|Fibonnaccimal Base|
-|UVA 10008|What's Cryptanalysis|
-|UVA 10013|Super Long Sums|
-|UVA 10019|Funny Encryption Method|
-|UVA 10035|Primary Arithmetic|
-|UVA 10038|Jolly Jumpers|
+|UVA 10008|What's Cryptanalysis|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010008%20What's%20Cryptanalysis/main.cpp)|
+|UVA 10013|Super Long Sums|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010013%20Super%20Long%20Sums/main.cpp)|
+|UVA 10019|Funny Encryption Method|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010019%20Funny%20Encryption%20Method/main.cpp)|
+|UVA 10035|Primary Arithmetic|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010035%20Primary%20Arithmetic/main.cpp)|
+|UVA 10038|Jolly Jumpers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010038%20Jolly%20Jumpers/main.cpp)|
 |UVA 10041|Vito's Family|
 |UVA 10050|Hartals|
 |UVA 10055|Hashmat The Brave Warrior|
