@@ -23,11 +23,11 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |UVA 10019|Funny Encryption Method|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010019%20Funny%20Encryption%20Method/main.cpp)|
 |UVA 10035|Primary Arithmetic|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010035%20Primary%20Arithmetic/main.cpp)|
 |UVA 10038|Jolly Jumpers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010038%20Jolly%20Jumpers/main.cpp)|
-|UVA 10041|Vito's Family|
-|UVA 10050|Hartals|
-|UVA 10055|Hashmat The Brave Warrior|
-|UVA 10056|What Is The Probability|
-|UVA 10057|A Mid-Summer Night's Dream|
+|UVA 10041|Vito's Family|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010041%20Vito's%20Family/main.cpp)|
+|UVA 10050|Hartals|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010050%20Hartals/main.cpp)|
+|UVA 10055|Hashmat The Brave Warrior|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010055%20Hashmat%20the%20Brave%20Warrior/main.cpp)|
+|UVA 10056|What Is The Probability|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010056%20What%20Is%20The%20Probability/main.cpp)|
+|UVA 10057|A Mid-Summer Night's Dream|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010057%20A%20Mid-Summer%20Night's%20Dream/main.cpp)|
 |UVA 10071|Back To High School Physics|
 |UVA 10101|Bangla Numbers|
 |UVA 10127|Ones|
