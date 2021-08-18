@@ -6,6 +6,10 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 
 ---
 
+Still working on the link in the README file, if you do not find the link, just browse through the list and find the code above.
+
+---
+
 ## Finished Question (Done) 😄
 
 |Index|Title|C++|
