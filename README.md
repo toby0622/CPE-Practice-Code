@@ -30,6 +30,7 @@ Examination Organizer: ACM-ICPC Contest Council for Taiwan
 |UVA 10057|A Mid-Summer Night's Dream|
 |UVA 10071|Back To High School Physics|
 |UVA 10101|Bangla Numbers|
+|UVA 10127|Ones|
 |UVA 10170|The Hotel With Infinite Rooms|
 |UVA 10188|Automated Judge Script|
 |UVA 10189|Minesweeper|
