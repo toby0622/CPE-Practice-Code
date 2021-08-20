@@ -83,6 +83,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10137|The Trip|
 |UVA 10176|Ocean Deep Make It Shallow|
 |UVA 10226|Hardwood Species|
+|UVA 10555|Dead Fraction|
 |UVA 11005|Cheapest Base|
 
 ---
