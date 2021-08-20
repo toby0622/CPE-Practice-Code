@@ -75,8 +75,8 @@ Still working on the link in the README file, if you do not find the link, just 
 
 ## Need More Practice (Done With A Lot Of Browsing) 😕
 
-|Index|Title|
-|:-----:|:-----:|
+|Index|Title|C++|
+|:-----:|:-----:|:-----:|
 |UVA 10062|Tell Me The Frequencies|
 |UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
 |UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
