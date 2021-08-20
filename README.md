@@ -34,7 +34,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10057|A Mid-Summer Night's Dream|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010057%20A%20Mid-Summer%20Night's%20Dream/main.cpp)|
 |UVA 10071|Back To High School Physics|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010071%20Back%20To%20High%20School%20Physics/main.cpp)|
 |UVA 10101|Bangla Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010101%20Bangla%20Numbers/main.cpp)|
-|UVA 10127|Ones|[Code Link](https://github.com/toby0622/CPE-Practice-Code/tree/master/UVA%2010127%20Ones)|
+|UVA 10127|Ones|[Code Link](https://github.com/toby0622/CPE-Practice-Code/tree/master/UVA%2010127%20Ones/main.cpp)|
 |UVA 10170|The Hotel With Infinite Rooms|
 |UVA 10188|Automated Judge Script|
 |UVA 10189|Minesweeper|
