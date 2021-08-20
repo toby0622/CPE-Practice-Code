@@ -32,9 +32,9 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10055|Hashmat The Brave Warrior|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010055%20Hashmat%20the%20Brave%20Warrior/main.cpp)|
 |UVA 10056|What Is The Probability|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010056%20What%20Is%20The%20Probability/main.cpp)|
 |UVA 10057|A Mid-Summer Night's Dream|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010057%20A%20Mid-Summer%20Night's%20Dream/main.cpp)|
-|UVA 10071|Back To High School Physics|
-|UVA 10101|Bangla Numbers|
-|UVA 10127|Ones|
+|UVA 10071|Back To High School Physics|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010071%20Back%20To%20High%20School%20Physics/main.cpp)|
+|UVA 10101|Bangla Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010101%20Bangla%20Numbers/main.cpp)|
+|UVA 10127|Ones|[Code Link](https://github.com/toby0622/CPE-Practice-Code/tree/master/UVA%2010127%20Ones)|
 |UVA 10170|The Hotel With Infinite Rooms|
 |UVA 10188|Automated Judge Script|
 |UVA 10189|Minesweeper|
@@ -78,8 +78,8 @@ Still working on the link in the README file, if you do not find the link, just 
 |Index|Title|
 |:-----:|:-----:|
 |UVA 10062|Tell Me The Frequencies|
-|UVA 10093|An Easy Problem|
-|UVA 10106|Product|
+|UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
+|UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
 |UVA 10137|The Trip|
 |UVA 10176|Ocean Deep Make It Shallow|
 |UVA 10226|Hardwood Species|
