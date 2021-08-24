@@ -51,6 +51,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10295|Hay Points|
 |UVA 10298|Power String|
 |UVA 10340|All In All|
+|UVA 10407|Simple Division|
 |UVA 10409|Die Game|
 |UVA 10415|Eb Alto Saxophone Player|
 |UVA 10420|List Of Conquests|
@@ -79,6 +80,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |:-----:|:-----:|:-----:|
 |UVA 10062|Tell Me The Frequencies|
 |UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
+|UVA 10104|Euclid Problem|
 |UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
 |UVA 10137|The Trip|
 |UVA 10176|Ocean Deep Make It Shallow|
