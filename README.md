@@ -15,13 +15,13 @@ Still working on the link in the README file, if you do not find the link, just 
 |Index|Title|C++|
 |:-----:|:-----:|:-----:|
 |UVA 100|The 3n+1 Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20100%20The%203n%20%2B%201%20Problem/main.cpp)|
-|UVA 118|Mutant Flatworld Explorers|
-|UVA 256|Quirksome Squares|
-|UVA 272|TeX Quotes|
-|UVA 299|Train Swapping|
-|UVA 490|Rotating Sentences|
-|UVA 495|Fibonacci Freeze|
-|UVA 948|Fibonnaccimal Base|
+|UVA 118|Mutant Flatworld Explorers|[Code Link]()|
+|UVA 256|Quirksome Squares|[Code Link]()|
+|UVA 272|TeX Quotes|[Code Link]()|
+|UVA 299|Train Swapping|[Code Link]()|
+|UVA 490|Rotating Sentences|[Code Link]()|
+|UVA 495|Fibonacci Freeze|[Code Link]()|
+|UVA 948|Fibonnaccimal Base|[Code Link]()|
 |UVA 10008|What's Cryptanalysis|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010008%20What's%20Cryptanalysis/main.cpp)|
 |UVA 10013|Super Long Sums|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010013%20Super%20Long%20Sums/main.cpp)|
 |UVA 10019|Funny Encryption Method|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010019%20Funny%20Encryption%20Method/main.cpp)|
@@ -35,17 +35,17 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10071|Back To High School Physics|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010071%20Back%20To%20High%20School%20Physics/main.cpp)|
 |UVA 10101|Bangla Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010101%20Bangla%20Numbers/main.cpp)|
 |UVA 10127|Ones|[Code Link](https://github.com/toby0622/CPE-Practice-Code/tree/master/UVA%2010127%20Ones/main.cpp)|
-|UVA 10170|The Hotel With Infinite Rooms|
-|UVA 10188|Automated Judge Script|
-|UVA 10189|Minesweeper|
-|UVA 10190|Divide, But Not Quite Conquer|
-|UVA 10193|All You Need Is Love|
-|UVA 10215|The Largest / Smallest Box|
-|UVA 10220|I Love Big Numbers|
-|UVA 10221|Satellites|
-|UVA 10222|Decode The Mad Man|
-|UVA 10235|Simply Emirp|
-|UVA 10242|Fourth Point|
+|UVA 10170|The Hotel With Infinite Rooms|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010170%20The%20Hotel%20With%20Infinite%20Rooms/main.cpp)|
+|UVA 10188|Automated Judge Script|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010188%20Automated%20Judge%20Script/main.cpp)|
+|UVA 10189|Minesweeper|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010189%20Minesweeper/main.cpp)|
+|UVA 10190|Divide, But Not Quite Conquer|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010190%20Divide%20But%20Not%20Quite%20Conquer/main.cpp)|
+|UVA 10193|All You Need Is Love|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010193%20All%20You%20Need%20Is%20Love/main.cpp)|
+|UVA 10215|The Largest / Smallest Box|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010215%20The%20Largest%20Smallest%20Box/main.cpp)|
+|UVA 10220|I Love Big Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010220%20I%20Love%20Big%20Numbers/main.cpp)|
+|UVA 10221|Satellites|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010221%20Satellites/main.cpp)|
+|UVA 10222|Decode The Mad Man|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010222%20Decode%20The%20Mad%20Man/main.cpp)|
+|UVA 10235|Simply Emirp|[Code Link]()|
+|UVA 10242|Fourth Point|[Code Link]()|
 |UVA 10252|Common Permutation|
 |UVA 10268|498'|
 |UVA 10295|Hay Points|
@@ -83,7 +83,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10104|Euclid Problem|
 |UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
 |UVA 10137|The Trip|
-|UVA 10176|Ocean Deep Make It Shallow|
+|UVA 10176|Ocean Deep Make It Shallow|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010176%20Ocean%20Deep%20Make%20It%20Shallow/main.cpp)|
 |UVA 10226|Hardwood Species|
 |UVA 10555|Dead Fraction|
 |UVA 11005|Cheapest Base|
