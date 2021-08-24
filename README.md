@@ -15,13 +15,13 @@ Still working on the link in the README file, if you do not find the link, just 
 |Index|Title|C++|
 |:-----:|:-----:|:-----:|
 |UVA 100|The 3n+1 Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20100%20The%203n%20%2B%201%20Problem/main.cpp)|
-|UVA 118|Mutant Flatworld Explorers|[Code Link]()|
-|UVA 256|Quirksome Squares|[Code Link]()|
-|UVA 272|TeX Quotes|[Code Link]()|
-|UVA 299|Train Swapping|[Code Link]()|
-|UVA 490|Rotating Sentences|[Code Link]()|
-|UVA 495|Fibonacci Freeze|[Code Link]()|
-|UVA 948|Fibonnaccimal Base|[Code Link]()|
+|UVA 118|Mutant Flatworld Explorers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20118%20Mutant%20Flatworld%20Explorers/main.cpp)|
+|UVA 256|Quirksome Squares|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20256%20Quirksome%20Squares/main.cpp)|
+|UVA 272|TeX Quotes|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20272%20TeX%20Quotes/main.cpp)|
+|UVA 299|Train Swapping|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20299%20Train%20Swapping/main.cpp)|
+|UVA 490|Rotating Sentences|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20490%20Rotating%20Sentences/main.cpp)|
+|UVA 495|Fibonacci Freeze|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20495%20Fibonacci%20Freeze/main.cpp)|
+|UVA 948|Fibonnaccimal Base|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20948%20Fibonaccimal%20Base/main.cpp)|
 |UVA 10008|What's Cryptanalysis|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010008%20What's%20Cryptanalysis/main.cpp)|
 |UVA 10013|Super Long Sums|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010013%20Super%20Long%20Sums/main.cpp)|
 |UVA 10019|Funny Encryption Method|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010019%20Funny%20Encryption%20Method/main.cpp)|
@@ -44,8 +44,8 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10220|I Love Big Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010220%20I%20Love%20Big%20Numbers/main.cpp)|
 |UVA 10221|Satellites|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010221%20Satellites/main.cpp)|
 |UVA 10222|Decode The Mad Man|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010222%20Decode%20The%20Mad%20Man/main.cpp)|
-|UVA 10235|Simply Emirp|[Code Link]()|
-|UVA 10242|Fourth Point|[Code Link]()|
+|UVA 10235|Simply Emirp|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010235%20Simply%20Emirp/main.cpp)|
+|UVA 10242|Fourth Point|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010242%20Fourth%20Point/main.cpp)|
 |UVA 10252|Common Permutation|
 |UVA 10268|498'|
 |UVA 10295|Hay Points|
