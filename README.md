@@ -40,18 +40,18 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10189|Minesweeper|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010189%20Minesweeper/main.cpp)|
 |UVA 10190|Divide, But Not Quite Conquer|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010190%20Divide%20But%20Not%20Quite%20Conquer/main.cpp)|
 |UVA 10193|All You Need Is Love|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010193%20All%20You%20Need%20Is%20Love/main.cpp)|
-|UVA 10200|Prime Time|
+|UVA 10200|Prime Time|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010200%20Prime%20Time/main.cpp)|
 |UVA 10215|The Largest / Smallest Box|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010215%20The%20Largest%20Smallest%20Box/main.cpp)|
 |UVA 10220|I Love Big Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010220%20I%20Love%20Big%20Numbers/main.cpp)|
 |UVA 10221|Satellites|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010221%20Satellites/main.cpp)|
 |UVA 10222|Decode The Mad Man|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010222%20Decode%20The%20Mad%20Man/main.cpp)|
 |UVA 10235|Simply Emirp|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010235%20Simply%20Emirp/main.cpp)|
 |UVA 10242|Fourth Point|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010242%20Fourth%20Point/main.cpp)|
-|UVA 10252|Common Permutation|
-|UVA 10268|498'|
-|UVA 10295|Hay Points|
-|UVA 10298|Power String|
-|UVA 10340|All In All|
+|UVA 10252|Common Permutation|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010252%20Common%20Permutation/main.cpp)|
+|UVA 10268|498'|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010268%20498%20Bis/main.cpp)|
+|UVA 10295|Hay Points|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010295%20Hay%20Points/main.cpp)|
+|UVA 10298|Power Strings|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010298%20Power%20Strings/main.cpp)|
+|UVA 10340|All In All|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010340%20All%20In%20All/main.cpp)|
 |UVA 10407|Simple Division|
 |UVA 10409|Die Game|
 |UVA 10415|Eb Alto Saxophone Player|
@@ -84,7 +84,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10104|Euclid Problem|
 |UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
 |UVA 10137|The Trip|
-|UVA 10140|Prime Distance|
+|UVA 10140|Prime Distance|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010140%20Prime%20Distance/main.cpp)|
 |UVA 10176|Ocean Deep Make It Shallow|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010176%20Ocean%20Deep%20Make%20It%20Shallow/main.cpp)|
 |UVA 10226|Hardwood Species|
 |UVA 10555|Dead Fraction|
