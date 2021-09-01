@@ -97,3 +97,4 @@ Still working on the link in the README file, if you do not find the link, just 
 |Index|Title|C++|
 |:-----:|:-----:|:-----:|
 |UVA 10343|Base64 Decoding|
+|UVA 10925|Krakovia|
