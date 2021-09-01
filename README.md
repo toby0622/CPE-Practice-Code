@@ -40,6 +40,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10189|Minesweeper|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010189%20Minesweeper/main.cpp)|
 |UVA 10190|Divide, But Not Quite Conquer|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010190%20Divide%20But%20Not%20Quite%20Conquer/main.cpp)|
 |UVA 10193|All You Need Is Love|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010193%20All%20You%20Need%20Is%20Love/main.cpp)|
+|UVA 10200|Prime Time|
 |UVA 10215|The Largest / Smallest Box|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010215%20The%20Largest%20Smallest%20Box/main.cpp)|
 |UVA 10220|I Love Big Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010220%20I%20Love%20Big%20Numbers/main.cpp)|
 |UVA 10221|Satellites|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010221%20Satellites/main.cpp)|
@@ -83,6 +84,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10104|Euclid Problem|
 |UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
 |UVA 10137|The Trip|
+|UVA 10140|Prime Distance|
 |UVA 10176|Ocean Deep Make It Shallow|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010176%20Ocean%20Deep%20Make%20It%20Shallow/main.cpp)|
 |UVA 10226|Hardwood Species|
 |UVA 10555|Dead Fraction|
