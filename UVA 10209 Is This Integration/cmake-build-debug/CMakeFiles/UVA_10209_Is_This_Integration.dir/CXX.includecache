@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 10209 Is This Integration/main.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+
