@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 993 Product Of Digits/cmake-build-debug/CMakeFiles/UVA_993_Product_Of_Digits.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 993 Product Of Digits/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 993 Product Of Digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
