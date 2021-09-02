@@ -28,6 +28,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10035|Primary Arithmetic|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010035%20Primary%20Arithmetic/main.cpp)|
 |UVA 10038|Jolly Jumpers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010038%20Jolly%20Jumpers/main.cpp)|
 |UVA 10041|Vito's Family|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010041%20Vito's%20Family/main.cpp)|
+|UVA 10042|Smith Numbers|
 |UVA 10050|Hartals|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010050%20Hartals/main.cpp)|
 |UVA 10055|Hashmat The Brave Warrior|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010055%20Hashmat%20the%20Brave%20Warrior/main.cpp)|
 |UVA 10056|What Is The Probability|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010056%20What%20Is%20The%20Probability/main.cpp)|
@@ -52,15 +53,15 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10295|Hay Points|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010295%20Hay%20Points/main.cpp)|
 |UVA 10298|Power Strings|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010298%20Power%20Strings/main.cpp)|
 |UVA 10340|All In All|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010340%20All%20In%20All/main.cpp)|
-|UVA 10407|Simple Division|
-|UVA 10409|Die Game|
-|UVA 10415|Eb Alto Saxophone Player|
-|UVA 10420|List Of Conquests|
-|UVA 10642|Can You Solve It|
-|UVA 10783|Odd Sum|
-|UVA 10812|Beat The Spread|
-|UVA 10908|Largest Square|
-|UVA 10922|2 The 9s|
+|UVA 10407|Simple Division|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010407%20Simple%20Division/main.cpp)|
+|UVA 10409|Die Game|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010409%20Die%20Game/main.cpp)|
+|UVA 10415|Eb Alto Saxophone Player|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010415%20Eb%20Alto%20Saxophone%20Player/main.cpp)|
+|UVA 10420|List Of Conquests|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010420%20List%20Of%20Conquest/main.cpp)|
+|UVA 10642|Can You Solve It|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010642%20Can%20You%20Solve%20It/main.cpp)|
+|UVA 10783|Odd Sum|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010783%20Odd%20Sum/main.cpp)|
+|UVA 10812|Beat The Spread|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010812%20Beat%20The%20Spread/main.cpp)|
+|UVA 10908|Largest Square|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010908%20Largest%20Square/main.cpp)|
+|UVA 10922|2 The 9s|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010922%202%20the%209s/main.cpp)|
 |UVA 10929|You Can Say 11|
 |UVA 10931|Parity|
 |UVA 11001|Necklace|
@@ -79,6 +80,7 @@ Still working on the link in the README file, if you do not find the link, just 
 
 |Index|Title|C++|
 |:-----:|:-----:|:-----:|
+|UVA 993|Product Of Digits|
 |UVA 10062|Tell Me The Frequencies|
 |UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
 |UVA 10104|Euclid Problem|
@@ -87,7 +89,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10140|Prime Distance|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010140%20Prime%20Distance/main.cpp)|
 |UVA 10176|Ocean Deep Make It Shallow|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010176%20Ocean%20Deep%20Make%20It%20Shallow/main.cpp)|
 |UVA 10226|Hardwood Species|
-|UVA 10555|Dead Fraction|
+|UVA 10555|Dead Fraction|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010555%20Dead%20Fraction/main.cpp)|
 |UVA 11005|Cheapest Base|
 
 ---
