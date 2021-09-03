@@ -63,15 +63,15 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10812|Beat The Spread|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010812%20Beat%20The%20Spread/main.cpp)|
 |UVA 10908|Largest Square|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010908%20Largest%20Square/main.cpp)|
 |UVA 10922|2 The 9s|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010922%202%20the%209s/main.cpp)|
-|UVA 10929|You Can Say 11|
-|UVA 10931|Parity|
-|UVA 11001|Necklace|
-|UVA 11150|Cola|
-|UVA 11063|B2 Sequence|
-|UVA 11321|Sort Sort And Sort|
-|UVA 11332|Problem J Summing Digits|
-|UVA 11349|Symmetric Matrix|
-|UVA 11417|GCD|
+|UVA 10929|You Can Say 11|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010929%20You%20Can%20Say%2011/main.cpp)|
+|UVA 10931|Parity|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010931%20Parity/main.cpp)|
+|UVA 11001|Necklace|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011001%20Necklace/main.cpp)|
+|UVA 11063|B2 Sequence|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011063%20B2%20Sequence/main.cpp)|
+|UVA 11150|Cola|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011150%20Cola/main.cpp)|
+|UVA 11321|Sort Sort And Sort|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011321%20Sort%20Sort%20Sort/main.cpp)|
+|UVA 11332|Summing Digits|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011332%20Summing%20Digits/main.cpp)|
+|UVA 11349|Symmetric Matrix|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011349%20Symmetric%20Matrix/main.cpp)|
+|UVA 11417|GCD|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011417%20GCD/main.cpp)|
 |UVA 11461|Square Numbers|
 |UVA 12019|A Doom's Day Algorithm|
 
@@ -81,7 +81,10 @@ Still working on the link in the README file, if you do not find the link, just 
 
 |Index|Title|C++|
 |:-----:|:-----:|:-----:|
+|UVA 572|Oil Deposits|
 |UVA 993|Product Of Digits|
+|UVA 10004|Bicoloring|
+|UVA 10009|All Roads Lead Where|
 |UVA 10062|Tell Me The Frequencies|
 |UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
 |UVA 10104|Euclid Problem|
@@ -92,7 +95,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10176|Ocean Deep Make It Shallow|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010176%20Ocean%20Deep%20Make%20It%20Shallow/main.cpp)|
 |UVA 10226|Hardwood Species|
 |UVA 10555|Dead Fraction|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010555%20Dead%20Fraction/main.cpp)|
-|UVA 11005|Cheapest Base|
+|UVA 11005|Cheapest Base|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011005%20Cheapest%20Base/main.cpp)|
 
 ---
 
