@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 900 Brick Wall Patterns/cmake-build-debug/CMakeFiles/UVA_900_Brick_Wall_Patterns.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 900 Brick Wall Patterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 900 Brick Wall Patterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
