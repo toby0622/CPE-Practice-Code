@@ -21,6 +21,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 299|Train Swapping|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20299%20Train%20Swapping/main.cpp)|
 |UVA 490|Rotating Sentences|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20490%20Rotating%20Sentences/main.cpp)|
 |UVA 495|Fibonacci Freeze|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20495%20Fibonacci%20Freeze/main.cpp)|
+|UVA 900|Brick Wall Patterns|
 |UVA 948|Fibonnaccimal Base|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20948%20Fibonaccimal%20Base/main.cpp)|
 |UVA 10008|What's Cryptanalysis|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010008%20What's%20Cryptanalysis/main.cpp)|
 |UVA 10013|Super Long Sums|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010013%20Super%20Long%20Sums/main.cpp)|
@@ -59,6 +60,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10415|Eb Alto Saxophone Player|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010415%20Eb%20Alto%20Saxophone%20Player/main.cpp)|
 |UVA 10420|List Of Conquests|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010420%20List%20Of%20Conquest/main.cpp)|
 |UVA 10642|Can You Solve It|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010642%20Can%20You%20Solve%20It/main.cpp)|
+|UVA 10714|Ants|
 |UVA 10783|Odd Sum|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010783%20Odd%20Sum/main.cpp)|
 |UVA 10812|Beat The Spread|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010812%20Beat%20The%20Spread/main.cpp)|
 |UVA 10908|Largest Square|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010908%20Largest%20Square/main.cpp)|
@@ -85,6 +87,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 993|Product Of Digits|
 |UVA 10004|Bicoloring|
 |UVA 10009|All Roads Lead Where|
+|UVA 10020|Minimal Coverage|
 |UVA 10062|Tell Me The Frequencies|
 |UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
 |UVA 10104|Euclid Problem|
