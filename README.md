@@ -21,7 +21,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 299|Train Swapping|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20299%20Train%20Swapping/main.cpp)|
 |UVA 490|Rotating Sentences|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20490%20Rotating%20Sentences/main.cpp)|
 |UVA 495|Fibonacci Freeze|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20495%20Fibonacci%20Freeze/main.cpp)|
-|UVA 900|Brick Wall Patterns|
+|UVA 900|Brick Wall Patterns|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20900%20Brick%20Wall%20Patterns/main.cpp)|
 |UVA 948|Fibonnaccimal Base|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20948%20Fibonaccimal%20Base/main.cpp)|
 |UVA 10008|What's Cryptanalysis|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010008%20What's%20Cryptanalysis/main.cpp)|
 |UVA 10013|Super Long Sums|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010013%20Super%20Long%20Sums/main.cpp)|
@@ -29,7 +29,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10035|Primary Arithmetic|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010035%20Primary%20Arithmetic/main.cpp)|
 |UVA 10038|Jolly Jumpers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010038%20Jolly%20Jumpers/main.cpp)|
 |UVA 10041|Vito's Family|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010041%20Vito's%20Family/main.cpp)|
-|UVA 10042|Smith Numbers|
+|UVA 10042|Smith Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010042%20Smith%20Numbers/main.cpp)|
 |UVA 10050|Hartals|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010050%20Hartals/main.cpp)|
 |UVA 10055|Hashmat The Brave Warrior|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010055%20Hashmat%20the%20Brave%20Warrior/main.cpp)|
 |UVA 10056|What Is The Probability|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010056%20What%20Is%20The%20Probability/main.cpp)|
@@ -43,7 +43,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10190|Divide, But Not Quite Conquer|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010190%20Divide%20But%20Not%20Quite%20Conquer/main.cpp)|
 |UVA 10193|All You Need Is Love|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010193%20All%20You%20Need%20Is%20Love/main.cpp)|
 |UVA 10200|Prime Time|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010200%20Prime%20Time/main.cpp)|
-|UVA 10209|Is This Integration|
+|UVA 10209|Is This Integration|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010209%20Is%20This%20Integration/main.cpp)|
 |UVA 10215|The Largest / Smallest Box|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010215%20The%20Largest%20Smallest%20Box/main.cpp)|
 |UVA 10220|I Love Big Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010220%20I%20Love%20Big%20Numbers/main.cpp)|
 |UVA 10221|Satellites|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010221%20Satellites/main.cpp)|
@@ -60,7 +60,7 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10415|Eb Alto Saxophone Player|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010415%20Eb%20Alto%20Saxophone%20Player/main.cpp)|
 |UVA 10420|List Of Conquests|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010420%20List%20Of%20Conquest/main.cpp)|
 |UVA 10642|Can You Solve It|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010642%20Can%20You%20Solve%20It/main.cpp)|
-|UVA 10714|Ants|
+|UVA 10714|Ants|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010714%20Ants/main.cpp)|
 |UVA 10783|Odd Sum|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010783%20Odd%20Sum/main.cpp)|
 |UVA 10812|Beat The Spread|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010812%20Beat%20The%20Spread/main.cpp)|
 |UVA 10908|Largest Square|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010908%20Largest%20Square/main.cpp)|
@@ -74,8 +74,8 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 11332|Summing Digits|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011332%20Summing%20Digits/main.cpp)|
 |UVA 11349|Symmetric Matrix|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011349%20Symmetric%20Matrix/main.cpp)|
 |UVA 11417|GCD|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011417%20GCD/main.cpp)|
-|UVA 11461|Square Numbers|
-|UVA 12019|A Doom's Day Algorithm|
+|UVA 11461|Square Numbers|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011461%20Square%20Numbers/main.cpp)|
+|UVA 12019|A Doom's Day Algorithm|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2012019%20Doom's%20Day%20Algorithm/main.cpp)|
 
 ---
 
