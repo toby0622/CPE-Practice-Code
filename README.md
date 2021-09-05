@@ -83,13 +83,13 @@ Still working on the link in the README file, if you do not find the link, just 
 
 |Index|Title|C++|
 |:-----:|:-----:|:-----:|
-|UVA 151|Power Crisis|
-|UVA 572|Oil Deposits|
-|UVA 993|Product Of Digits|
-|UVA 10004|Bicoloring|
-|UVA 10009|All Roads Lead Where|
-|UVA 10020|Minimal Coverage|
-|UVA 10062|Tell Me The Frequencies|
+|UVA 151|Power Crisis|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20151%20Power%20Crisis/main.cpp)|
+|UVA 572|Oil Deposits|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20572%20Oil%20Deposits/main.cpp)|
+|UVA 993|Product Of Digits|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%20993%20Product%20Of%20Digits/main.cpp)|
+|UVA 10004|Bicoloring|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010004%20Bicoloring/main.cpp)|
+|UVA 10009|All Roads Lead Where|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010009%20All%20Roads%20Lead%20Where/main.cpp)|
+|UVA 10020|Minimal Coverage|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010020%20Minimal%20Coverage/main.cpp)|
+|UVA 10062|Tell Me The Frequencies|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010062%20Tell%20Me%20The%20Frequencies/main.cpp)|
 |UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
 |UVA 10104|Euclid Problem|
 |UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
