@@ -83,6 +83,7 @@ Still working on the link in the README file, if you do not find the link, just 
 
 |Index|Title|C++|
 |:-----:|:-----:|:-----:|
+|UVA 151|Power Crisis|
 |UVA 572|Oil Deposits|
 |UVA 993|Product Of Digits|
 |UVA 10004|Bicoloring|
@@ -98,7 +99,9 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10176|Ocean Deep Make It Shallow|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010176%20Ocean%20Deep%20Make%20It%20Shallow/main.cpp)|
 |UVA 10226|Hardwood Species|
 |UVA 10555|Dead Fraction|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010555%20Dead%20Fraction/main.cpp)|
+|UVA 10994|Simple Addition|
 |UVA 11005|Cheapest Base|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011005%20Cheapest%20Base/main.cpp)|
+|UVA 11286|Conformity|
 
 ---
 
