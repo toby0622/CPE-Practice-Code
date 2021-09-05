@@ -1,0 +1,3 @@
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11286 Conformity/cmake-build-debug/CMakeFiles/UVA_11286_Conformity.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11286 Conformity/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Downloads/CPE-Practice-Code/UVA 11286 Conformity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
