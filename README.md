@@ -91,17 +91,17 @@ Still working on the link in the README file, if you do not find the link, just 
 |UVA 10020|Minimal Coverage|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010020%20Minimal%20Coverage/main.cpp)|
 |UVA 10062|Tell Me The Frequencies|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010062%20Tell%20Me%20The%20Frequencies/main.cpp)|
 |UVA 10093|An Easy Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010093%20An%20Easy%20Problem/main.cpp)|
-|UVA 10104|Euclid Problem|
+|UVA 10104|Euclid Problem|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010104%20Euclid%20Problem/main.cpp)|
 |UVA 10106|Product|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010106%20Product/main.cpp)|
-|UVA 10137|The Trip|
+|UVA 10137|The Trip|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010137%20The%20Trip/main.cpp)|
 |UVA 10140|Prime Distance|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010140%20Prime%20Distance/main.cpp)|
-|UVA 10167|Birthday Cake|
+|UVA 10167|Birthday Cake|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010167%20Birthday%20Cake/main.cpp)|
 |UVA 10176|Ocean Deep Make It Shallow|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010176%20Ocean%20Deep%20Make%20It%20Shallow/main.cpp)|
-|UVA 10226|Hardwood Species|
+|UVA 10226|Hardwood Species|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010226%20Hardwood%20Species/main.cpp)|
 |UVA 10555|Dead Fraction|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010555%20Dead%20Fraction/main.cpp)|
-|UVA 10994|Simple Addition|
+|UVA 10994|Simple Addition|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2010994%20Simple%20Addition/main.cpp)|
 |UVA 11005|Cheapest Base|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011005%20Cheapest%20Base/main.cpp)|
-|UVA 11286|Conformity|
+|UVA 11286|Conformity|[Code Link](https://github.com/toby0622/CPE-Practice-Code/blob/master/UVA%2011286%20Conformity/main.cpp)|
 
 ---
 
